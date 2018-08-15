@@ -8,4 +8,8 @@ Thanks to all programer !!!!!
 ### 技术
 > [网络抓包](http://doc.workerman.net/315186)&emsp;&emsp;&emsp;&emsp;20180812<br>
 > [十分钟教你配置frp实现内网穿透](https://blog.csdn.net/u013144287/article/details/78589643)&emsp;&emsp;&emsp;&emsp;20180811<br>
+### PHP
+> [PHP实时生成并下载超大数据量的EXCEL文件](https://segmentfault.com/a/1190000011663425)&emsp;&emsp;&emsp;&emsp;20180815<br>
+> [Laravel 的十八个最佳实践](https://segmentfault.com/a/1190000015166527)&emsp;&emsp;&emsp;&emsp;20180814
+### GIT
 > [GIT学习](https://segmentfault.com/a/1190000015921765)&emsp;&emsp;&emsp;&emsp;20180809
