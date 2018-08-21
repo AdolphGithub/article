@@ -19,3 +19,5 @@ Thanks to all programer !!!!!
 > [GIT学习](https://segmentfault.com/a/1190000015921765)&emsp;&emsp;&emsp;&emsp;20180809
 ### Linux
 > [Web开发者手边的一本CentOS小书](https://segmentfault.com/a/1190000013384009)&emsp;&emsp;&emsp;&emsp;20180816<br>
+### javascript
+> [学习ES6笔记──工作中常用到的ES6语法](https://segmentfault.com/a/1190000016068235)&emsp;&emsp;&emsp;&emsp;201800821<br>
