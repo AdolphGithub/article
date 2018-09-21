@@ -1,6 +1,7 @@
 该仓库用于我每天的一些看过的一些文章和资源的整合,主要用于自己有个检索的地方,也会收藏一些杂文.如果您也想加入到这个项目中,请先fork一份然后在PR,我会认真的阅读您提交的文章.在进行merge.一个人的精力有限.
 Thanks to all programer !!!!!
 ### 杂文
+> [程序员如何预估自己的项目开发时间](https://segmentfault.com/a/1190000016481368)&emsp;&emsp;&emsp;&emsp;20180921<br>
 > [五级工程师和职业发展](https://liudanking.com/beautiful-life/five-level-engineer-and-career/)&emsp;&emsp;&emsp;&emsp;20180813<br>
 > [开发团队的效率](https://coolshell.cn/articles/11656.html)&emsp;&emsp;&emsp;&emsp;20180810<br>
 > [宁愿吃生活的苦，也不愿吃学习的苦](http://www.php.cn/toutiao-406569.html)&emsp;&emsp;&emsp;&emsp;20180809<br>
